@@ -1,0 +1,20 @@
+{
+  "name": "universities",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-bootstrap": "^1.3.0",
+    "react-dom": "16.13.1",
+    "react-toastify": "^6.0.8",
+    "sass": "^1.26.11"
+  }
+}

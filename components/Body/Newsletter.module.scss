@@ -1,0 +1,21 @@
+/**
+ * @author Aldi Mustafri
+ * @email aldimustafri@live.com
+ * @create date 2020-09-19 02:31:33
+ * @modify date 2020-09-19 02:31:33
+ * @desc [description]
+ */
+
+.card {
+  position: relative;
+  -webkit-box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  border-radius: 6px;
+  overflow: hidden;
+  margin: 40px auto;
+
+  .padding {
+    padding: 32px;
+  }
+}

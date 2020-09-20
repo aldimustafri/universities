@@ -1,0 +1,17 @@
+{
+  "1": {
+    "name": "Gareth Bale",
+    "email": "garethbale@hotmail.com",
+    "address": "london"
+  },
+  "2": {
+    "name": "James Rodriguez",
+    "email": "james@hotmail.com",
+    "address": "Liverpool"
+  },
+  "3": {
+    "name": "Sergio Ramos",
+    "email": "sergioramos@email.com",
+    "address": "Madrid"
+  }
+}
