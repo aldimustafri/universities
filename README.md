@@ -5,7 +5,7 @@
 - [Next.JS](https://nextjs.org/) | React Framework, Fast Generate Static Web and Serverside Rendering.
 - Functional Component | Easy to use and improvement with Hooks.
 - Axios | Good fetch api and async await.
-- Bootsrap | Responsive view Library.
+- Bootstrap | Responsive view Library.
 
 ## Setting up
 
